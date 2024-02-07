@@ -3201,7 +3201,9 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 苦乐村官,http://mmitv.top/pltv/yy.php?id=1382736864
 神医喜来乐,http://mmitv.top/pltv/yy.php?id=1382714119
 家有九凤,http://mmitv.top/pltv/yy.php?id=1354930894
-知否知否,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
+庆余年,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228465/index.m3u8
+神雕侠侣,http://43.138.170.29:35455/yy/12531
+狂飙,http://43.138.170.29:35455/yy/1382754187
 
 电影频道,#genre#
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
